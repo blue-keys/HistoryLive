@@ -54,10 +54,10 @@ L'équipe qui arrive en premier à la vingtième au centre case sera vainqueur, 
 
 > Premiers arrivés premier servi !
 
-exemplaires du jeu classique
--10 pack Web-plus d'une durée de 1 mois
--10 nitro classique d'une durée de 1 mois
--3 écussons du trèfle 2.0 comme lot de consolation
+- exemplaires du jeu classique
+- 10 pack Web-plus d'une durée de 1 mois
+- 10 nitro classique d'une durée de 1 mois
+- 3 écussons du trèfle 2.0 comme lot de consolation
 
 Peut être plus ...
 
@@ -78,3 +78,5 @@ Si le test est un succès, nous voulons développer un format web responsive du 
 # Serrez-vous de la partie ?
 
 Le live débutera à 15 h le samedi 24 avril 2021
+
+**Rappel ceci est un test de lancement d'animation.**
