@@ -55,7 +55,7 @@ L'équipe qui arrive en premier à la vingtième au centre case sera vainqueur, 
 > Premiers arrivés premier servi !
 
 - exemplaires du jeu classique
-- 10 pack Web-plus d'une durée de 1 mois
+- 10 pack Web-plus d'une durée de 1 mois sposorisé par brocloud.fr : https://brocloud.fr/hebergement/
 - 10 nitro classique d'une durée de 1 mois
 - 3 écussons du trèfle 2.0 comme lot de consolation
 
