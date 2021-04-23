@@ -1,6 +1,6 @@
 # Bluekeys event
 
-## **Document en cours de correction, merci**
+[Sous licence CC 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)
 
 # Qui sommes-nous :
 
@@ -73,7 +73,7 @@ Nous pensons faire un format de 20 questions sur 1h15 suivant la quantité et ta
 
 # La suite ?
 
-Si le test est un succès, nous voulons développer un format web responsive du jeu qui sera amélioré et adapté à nos communautés, il sera partagé de façon open source sur le [dépôt Github de Bluekeys](https://github.com/blue-keys) comme tous les autres projets. Nous avons des idées pour la suite et nous voulons faire un test pour vérifier nos hypothèses avant d'annoncer ce jeu comme notre événement mensuel.
+Si le test est un succès, nous voulons développer un format web responsive du jeu qui sera amélioré et adapté à nos communautés, il sera partagé de façon open source sur le [dépôt Github de HistoryLive](https://github.com/blue-keys/HistoryLive) comme tous les autres projets. Nous avons des idées pour la suite et nous voulons faire un test pour vérifier nos hypothèses avant d'annoncer ce jeu comme notre événement mensuel.
 
 # Serrez-vous de la partie ?
 
